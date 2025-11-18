@@ -1,0 +1,5 @@
+Author: Matthew Tan
+Purpose:
+     This lecture activity uses three libraries: Bootstrap, Bulma, and UIkit. -For Bootstrap, this library may be useful for websites as it provides a classic/modern visual default style that can be modulated in many ways.
+     -For Bulma, this library uses a modernized dark-mode visual style with a bright palette of colors for components such as alerts, buttons, and badges, for the sake of readability. This is great for those that prefer a darker screen with access to colors that are easy on the eyes. The text on the headers are automatically bolded.
+     -For UIkit, this library is similar to Bootstrap in visuals, however it uses sleek, modern typographies and use of stylings for components. In the alert, the alert background box is colored in a faint grey with the text being green for success. Compared to Bootstrap, both the text and the background is green. The UIKit adds a bit more variability to the look. Their button also auto-capitalizes for readability, which doesn't happen for bulma and bootstrap unless explicitly done.
